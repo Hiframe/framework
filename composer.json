@@ -1,0 +1,11 @@
+{
+    "name": "hiframe/framework",
+    "description": "a php framework",
+    "authors": [
+        {
+            "name": "zfm",
+            "email": "1306003944@qq.com"
+        }
+    ],
+    "require": {}
+}
